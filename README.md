@@ -14,3 +14,9 @@ Once the last steps are done, you must create a virtual environment and install 
 2. Then, activate this new venv with this command -> `source </PATH/TO/NEW/VENV>/bin/activate`. Example: `source venv/bin/activate`
 
 3. Last, install dependencies with the command -> `pip install -r requirements.txt`
+
+## Running main.ipynb
+It was decided to work in a Jupyter notebook to speed up the execution of the exercise, understanding that it does not comply with the format of an ETL process or data pipeline, however, since it is an exercise with little data and with data unknown to the developer, the Doing an initial Exploratory Data Analyze (EDA) is supposed to be essential to understand the nature and behavior of the data.
+
+1. First you need to select the kernel 
+2. 
