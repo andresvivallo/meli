@@ -1,4 +1,4 @@
-pandas
 ipykernel
 jsonlines
+pandas
 plotnine

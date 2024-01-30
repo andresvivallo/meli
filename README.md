@@ -15,8 +15,10 @@ Once the last steps are done, you must create a virtual environment and install 
 
 3. Last, install dependencies with the command -> `pip install -r requirements.txt`
 
-## Running main.ipynb
+## Running EDA.ipynb
 It was decided to work in a Jupyter notebook to speed up the execution of the exercise, understanding that it does not comply with the format of an ETL process or data pipeline, however, since it is an exercise with little data and with data unknown to the developer, the Doing an initial Exploratory Data Analyze (EDA) is supposed to be essential to understand the nature and behavior of the data.
 
 1. First you need to select the kernel (venv created in the last step) to run the EDA.ipynb file.
-2. Is necessary for the EDA.ipynb and ETL.py to run successfully, that the CodeEx.zip file is in a folder named "data" at the root of the project.
+2. Is necessary for the EDA.ipynb to run successfully, that the CodeEx.zip file is in a folder named "data" at the root of the project.
+
+## Running ETL.ipynb
