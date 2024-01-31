@@ -21,4 +21,4 @@ It was decided to work in a Jupyter notebook to speed up the execution of the ex
 1. First you need to select the kernel (venv created in the last step) to run the EDA.ipynb file.
 2. Is necessary for the EDA.ipynb to run successfully, that the CodeEx.zip file is in a folder named "data" at the root of the project.
 
-## Running ETL.ipynb
+## Running main.py
